@@ -1,0 +1,10 @@
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\bin\Debug\Toan Lop 3.exe.config
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\bin\Debug\Toan Lop 3.exe
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\bin\Debug\Toan Lop 3.pdb
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\obj\Debug\Toan Lop 3.csprojAssemblyReference.cache
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\obj\Debug\Toan_Lop_3.Form1.resources
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\obj\Debug\Toan_Lop_3.Properties.Resources.resources
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\obj\Debug\Toan Lop 3.csproj.GenerateResource.cache
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\obj\Debug\Toan Lop 3.csproj.CoreCompileInputs.cache
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\obj\Debug\Toan Lop 3.exe
+C:\Users\MinhTam\source\repos\Toan Lop 3\Toan Lop 3\obj\Debug\Toan Lop 3.pdb
